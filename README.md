@@ -1,17 +1,18 @@
-Web Scraper with JavaFX
+#Web Scraper with JavaFX
 
-This is a simple JavaFX application that allows you to input a URL and scrape a website for product information.
+##This is a simple JavaFX application that allows you to input a URL and scrape a website for product information.
 How to Use
 
-    Run the WebScraperGUI class to open the GUI window.
-    Enter a URL into the input field.
-    Click the "Scrape" button to scrape the website.
-    The results will be saved to a file named output.txt in the project directory.
+1. Run the WebScraperGUI class to open the GUI window.
+2. Enter a URL into the input field.
+3. Click the "Scrape" button to scrape the website.
+4. The results will be saved to a file named output.txt in the project directory.
 
-Note: This application is currently set up to scrape product information from the website https://www.jumia.com.tn/ordinateurs-tablettes-ordinateurs-portables-traditionnels/. You can modify the WebScraper class to scrape product information from a different website.
+## Note: This application is currently set up to scrape product information from the website [Website URL](https://www.jumia.com.tn/ordinateurs-tablettes-ordinateurs-portables-traditionnels/)
+You can modify the WebScraper class to scrape product information from a different website.
 Requirements
 
-    Java 8 or later that includes JavaFX
+-- Java 8 or later that includes JavaFX
 
 Notes
 
